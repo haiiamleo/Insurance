@@ -1,14 +1,14 @@
 {
-  "name": "Estore",
+  "name": "Insurance",
   "version": "1.0.0",
-  "description": "",
+  "description": "Inusurance application in Ethereum",
   "main": "index.js",
   "scripts": {
     "compile": "truffle compile",
     "migrate": "truffle migrate"
  },
   "keywords": [],
-  "author": "",
+  "author": "Leo Manuel",
   "license": "ISC",
   "dependencies": {
     "@etherisc/gif": "^1.0.1",
